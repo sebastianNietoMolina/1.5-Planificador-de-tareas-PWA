@@ -1,5 +1,15 @@
-## _Despliegue en Heroku_ 
+## _Despliegue en Firebase 
 [Despliegue](https://taks-planner-app-2299c.web.app/)
+
+## Pruebas de fotos para descargar la aplicación.
+
+1. Así se veria la app si se abre desde el celular.
+
+![foto1](https://github.com/sebastianNietoMolina/1.5-Planificador-de-tareas-PWA/blob/main/pruebasFotos/WhatsApp%20Image%202021-03-11%20at%204.06.44%20PM%20(3).jpeg)
+
+2. Así se veria la app cuando se ha descargado y anexado para abrir directamente.
+
+![foto2](https://github.com/sebastianNietoMolina/1.5-Planificador-de-tareas-PWA/blob/main/pruebasFotos/WhatsApp%20Image%202021-03-11%20at%204.06.44%20PM.jpeg)
 
 # Getting Started with Create React App
 
