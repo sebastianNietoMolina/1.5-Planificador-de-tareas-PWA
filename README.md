@@ -1,4 +1,4 @@
-## _Despliegue en Firebase 
+## _Despliegue en Firebase_
 [Despliegue](https://taks-planner-app-2299c.web.app/)
 
 ## Pruebas de fotos para descargar la aplicación.
